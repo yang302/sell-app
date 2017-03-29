@@ -7,4 +7,4 @@ this is a sell app!
 
 执行 npm run dev
 
- 项目会运行在本地服务器, 打开网址 localhost:8080即可访问 
+ 项目会运行在本地服务器, 并且自动打开网址 localhost:8080
