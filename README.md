@@ -1,6 +1,7 @@
 # sell-app
 this is a sell app!
 
+高仿饿了吗app 商品页，评价页，商家页
 通过git clone下载到本地
 
 在项目根目录执行 npm install
